@@ -1,2 +1,2 @@
-# Network-literacy
-https://gitpitch.com/ingridbmason/network-literacy#/
+# Intro-to-Jupyter
+https://gitpitch.com/ingridbmason/Intro-to-Jupyter#/
