@@ -1,5 +1,5 @@
 @title[Intro to Jupyter]
-### Intro to Jupyter
+### Intro to Jupyter 
 <p style="color:gray">For Research Support Specialists</p>
 <p style="font-size:0.6em; color:gray">Blah blah blah</p> 
 
