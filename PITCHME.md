@@ -27,12 +27,14 @@ Notes?
 @title[Notebook Function]
 ### What do Jupyter Notebooks do? 
 
+---
 Objectives:
 - Understand what notebooks are capable of
 Activity:
- - How could you see a notebook being useful to you?
+ - How could you see a notebook being useful to researchers?
 Keypoints:
- - Notebooks might not be for you! But if they are, they could accelerate your research and be a good friend in a time of need. Or just improve a few processes to make life less tedious. :)
+ - Notebooks might not be for researchers! But if they are, they could accelerate research or just improve a few processes to make life less tedious. :)
+---
 
 ---
 @title[Effective Data Movement]
