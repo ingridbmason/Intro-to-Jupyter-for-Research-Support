@@ -18,7 +18,7 @@ A first look at notebooks, why they are useful and how to use them. Then some ti
 
 
 
-<p style="font-size:0.6em; color:gray">\*workshop is ~3 hours including breaks </p> 
+<p style="font-size:0.6em; color:gray">*workshop is ~3 hours including breaks </p> 
 
 Note:  
 Notes? 
