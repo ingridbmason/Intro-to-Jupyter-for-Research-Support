@@ -1,0 +1,10 @@
+theme : white
+theme-override : AARNet-specific/PITCHME.css
+layout : center
+background : AARNet-specific/AARNet_OrangeBeam.png
+background-position : bottom
+background-size : contain
+logo : AARNet-specific/AARNet_logo_withtag_mono.png
+footnote : "- data handling and network know-how -"
+transition : none
+published : true

@@ -1,2 +1,2 @@
-# Introduction-to-Jupyter-Notebooks
-A first look at notebooks, why they are useful and how to use them.
+# Network-literacy
+https://gitpitch.com/ingridbmason/network-literacy#/
