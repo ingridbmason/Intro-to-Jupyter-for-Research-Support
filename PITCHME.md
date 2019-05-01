@@ -9,7 +9,7 @@ A first look at notebooks, why they are useful and how to use them. Then some ti
 
 ---
 @title[Agenda]
-### Agenda
+### Agenda 
 - What is a Jupyter notebook and how does it function. 30 minutes
 - Where does a Jupyter notebook fit in different researcher toolkits. 45 minutes
 - Why use Jupyter notebook on a desktop and why use it in the cloud. 30 minutes
