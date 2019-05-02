@@ -34,7 +34,7 @@ Note:
 
 ---
 @title[Notebook Description]
-## Overview
+### Overview
 
 Jupyter Notebooks offer a hybrid environment in which you can perform computational tasks while also using text to annotate or describe what you and your code blocks are doing. It's a like a mix between the command line and a word processor. 
 
