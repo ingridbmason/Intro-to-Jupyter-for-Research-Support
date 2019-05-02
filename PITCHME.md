@@ -30,7 +30,7 @@ If we have time, we can have a go at using R too, with some basic commands.
 - But if they are, they could accelerate research or just improve a few processes to make life less tedious. :)
 
 Note:
-- Objectives: Understand what notebooks are capable of. 
+- Objective: Understand what notebooks are capable of. 
 - Activity: How could you see a notebook being useful to researchers?
 
 ---
@@ -48,14 +48,40 @@ Jupyter Notebooks offer a hybrid environment in which you can perform computatio
 –description from [Project Jupyter](https://jupyter.org/)
 
 ---
-@title[Notebook Kernels]
+@title[Data Cleaning]
+#### [Data cleaning](https://en.wikipedia.org/wiki/Data_cleansing)
+
+Data cleaning is about finding and correcting (or removing) inaccuracies from a dataset, a table, or a database. The process involves identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting them.
+
+Note:
+In Jupyter Notebooks you can preview and analyse a limited number of columns and rows of data at a time, so you can see if there are blanks or repeated errors or inaccuracies. In addition, working directly with a large dataset without having to download it can save a lot of time.
+
+---
+@title[Data Transformation]
+#### Data transformation
+
+Data transformation is the process of converting data values from one source format or structure to another so they become consistent or intelligbible to a target structure or system. A typical scenario where information needs to be shared involves the extraction of the data from the source application or data custodian, the transformation of that data into another format, and finally loading the transformed data into the target location.
+
+Note: 
+
+---
+@title[Numerical Simulation]
+#### Numerical Simulation
+
+---
+@title[Statistical Modelling]
+#### Statistical Modelling
+
+---
+@title[Programming Languages]
 ### Programming Languages
 
 Jupyter Notebooks can be used with a variety of different programming languages. Initially the notebookes were for *Julia*, *Python* and *R* but now they support many more languages. 
 
-<p style="font-size:0.6em; color:gray">If you don't know the languages researchers use, it might be helpful to think about the types of tasks they want to perform. Python is currently the most popular language used in Jupyter Notebooks as well as R, you can also consider what is commonly used in different fields of research.</p>
+<p style="font-size:0.6em; color:gray">If you don't know the languages and packages researchers use, it might be helpful to think about the types of tasks they want to perform. Python is currently the most popular language used in Jupyter Notebooks as well as R, you can also consider what is commonly used in different fields of research.</p>
 
 Note:
-- Activity: 
+- Objective: Understand languages (and packages) that are suited to different research tasks. 
+- Activity: In pairs, talk about which programming language might make the most sense for you and why. When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
 
 ---
