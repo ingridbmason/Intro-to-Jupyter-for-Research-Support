@@ -10,13 +10,14 @@ A first look at notebooks, why they are useful and how to use them. Then some ti
 ---
 @title[Agenda]
 ### Agenda 
-- What is a Jupyter notebook and how does it function. 30 minutes
-- Where does a Jupyter notebook fit in different researcher toolkits. 45 minutes
-- Why use Jupyter notebook on a desktop and why use it in the cloud. 30 minutes
-- Basic Python programming using a Jupyter notebook. 30 minutes
-- Wrap up. 10 minutes
+- What is a Jupyter notebook and how does it function. 30 mins
+- Where does a Jupyter notebook fit in different researcher toolkits. 45 mins
+- Why use Jupyter notebook on a desktop and why use it in the cloud. 30 mins
+- Basic Python programming using a Jupyter notebook. 30 mins
+- Wrap up. 10 mins
 
 <p style="font-size:0.6em; color:gray">\*workshop is ~3 hours including breaks </p> 
+
 
 Note:  
 Notes? 
