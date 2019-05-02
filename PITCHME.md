@@ -24,7 +24,7 @@ If we have time, we can have a go at using R too, with some basic commands.
 
 ---
 @title[Notebook Function]
-### What do Jupyter Notebooks do? 
+### Notebook Function 
 
 - Notebooks may or may not be useful for researchers! 
 - But if they are, they could accelerate research or just improve a few processes to make life less tedious. :)
