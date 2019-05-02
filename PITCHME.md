@@ -43,7 +43,7 @@ Note:
 @title[Notebook Overview]
 ### What can Jupyter Notebooks do?
 
-<p style="font-size:0.6em; color:gray">“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualisations and explanatory text. Uses include: *data cleaning and transformation*, *numerical simulation*, *statistical modelling*, *machine learning* and much more.”</p>
+<p style="font-size:0.6em; color:gray">“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualisations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modelling, machine learning and much more.”</p>
 
 –description from [Project Jupyter](https://jupyter.org/)
 
