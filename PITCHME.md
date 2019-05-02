@@ -20,7 +20,7 @@ A first look at notebooks, why they are useful and how to use them. Then some ti
 
 
 Note:  
-Notes? 
+If we have time, we can have a go at using R too, with some basic commands.  
 
 ---
 @title[Notebook Function]
@@ -55,3 +55,5 @@ Jupyter Notebooks can be used with a variety of different programming languages.
 
 Note:
 If you don't know the languages researchers use, it might be helpful to think about the types of tasks they want to perform. Python is currently the most popular language used in Jupyter Notebooks as well as R, you can also consider what is commonly used in different fields of research.
+
+---
