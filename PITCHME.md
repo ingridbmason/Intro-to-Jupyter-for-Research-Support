@@ -11,14 +11,11 @@ A first look at notebooks, why they are useful and how to use them. Then some ti
 ---
 @title[Agenda]
 ### Agenda 
-- <p style="font-size:0.4em;">What is a Jupyter notebook and how does it function. *30 mins*</p>
+- What is a Jupyter notebook and how does it function. *30 mins*</p>
 - Where does a Jupyter notebook fit in different researcher toolkits. *45 mins*
 - Why use Jupyter notebook on a desktop and why use it in the cloud. *30 mins*
 - Basic Python programming using a Jupyter notebook. *30 mins*
-- Wrap up. *10 mins*</p>
-
-<p style="font-size:0.4em; color:gray">\*workshop is ~3 hours including breaks </p> 
-
+- Wrap up. *10 mins*
 
 Note:  
 
@@ -32,6 +29,7 @@ If we have time, we can have a go at using R too, with some basic commands.
 - Notebooks could accelerate research or just improve a few processes to make life less tedious. :)
 
 Note:
+
 - Objective: Understand what notebooks are capable of. 
 - Activity: How could you see a notebook being useful to researchers?
 
@@ -45,7 +43,7 @@ Note:
 @title[Notebook Overview]
 ### What can Jupyter Notebooks do?
 
-<p style="font-size:0.6em; color:gray">“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualisations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.”</p>
+<p style="font-size:0.6em; color:gray">“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualisations and explanatory text. Uses include: *data cleaning and transformation*, *numerical simulation*, *statistical modelling*, *machine learning* and much more.”</p>
 
 –description from [Project Jupyter](https://jupyter.org/)
 
@@ -56,6 +54,7 @@ Note:
 <p style="font-size:0.6em; color:gray">Data cleaning is about finding and correcting (or removing) inaccuracies from a dataset, a table, or a database. The process involves identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting them.</p>
 
 Note:
+
 In Jupyter Notebooks you can preview and analyse a limited number of columns and rows of data at a time, so you can see if there are blanks or repeated errors or inaccuracies. In addition, working directly with a large dataset without having to download it can save a lot of time.
 
 ---
@@ -94,6 +93,7 @@ Jupyter Notebooks can be used with a variety of different programming languages.
 <p style="font-size:0.6em; color:gray">If you don't know the languages and packages researchers use, it might be helpful to think about the types of tasks they want to perform. Python is currently the most popular language used in Jupyter Notebooks as well as R, you can also consider what is commonly used in different fields of research.</p>
 
 Note:
+
 - Objective: Understand languages (and packages) that are suited to different research tasks. 
 - Activity: In pairs, talk about which programming language might make the most sense for you and why. When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
 
@@ -106,6 +106,7 @@ You don't need anything special to run a notebook - just a browser will do!
 <p style="font-size:0.6em; color:gray">Jupyter Notebooks don't need much to get going. They are editable and viewable in a web browser. You can also run them on a local machine with no internet or a remote machine with internet. They are very flexible and free!</p>
 
 Note: 
+
 - Objective: Understand how notebooks run and how they are different to the command line
 - Activity: Look at an example on GitHub
 
@@ -118,6 +119,7 @@ Note:
 - Document files e.g. *yourfilename.ipynb*
 
 Note:   
+
 Human-readable documents containing: analysis description and the results (figures, tables, etc..) and executable documents which can be run to perform data analysis. 
 
 ---
@@ -137,6 +139,7 @@ Human-readable documents containing: analysis description and the results (figur
 <p style="font-size:0.6em; color:gray">Notebooks use blocks of code to perform computational processes resulting in outputs, or results.</p>
 
 Note: 
+
 Different kernels can be installed for different types and versions of programming languages. The kernel in the notebook is a program that runs code written in a specific programming language.
 
 ---
