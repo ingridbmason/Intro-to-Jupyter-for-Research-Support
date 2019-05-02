@@ -15,12 +15,13 @@ A first look at notebooks, why they are useful and how to use them. Then some ti
 - Where does a Jupyter notebook fit in different researcher toolkits. *45 mins*
 - Why use Jupyter notebook on a desktop and why use it in the cloud. *30 mins*
 - Basic Python programming using a Jupyter notebook. *30 mins*
-- Wrap up. *10 mins*
+- Wrap up. *10 mins*</p>
 
 <p style="font-size:0.6em; color:gray">\*workshop is ~3 hours including breaks </p> 
 
 
 Note:  
+
 If we have time, we can have a go at using R too, with some basic commands.  
 
 ---
@@ -28,7 +29,7 @@ If we have time, we can have a go at using R too, with some basic commands.
 ### Notebook Function 
 
 - Notebooks may or may not be useful for researchers! 
-- But if they are, they could accelerate research or just improve a few processes to make life less tedious. :)
+- Notebooks could accelerate research or just improve a few processes to make life less tedious. :)
 
 Note:
 - Objective: Understand what notebooks are capable of. 
@@ -50,7 +51,7 @@ Note:
 
 ---
 @title[Data Cleaning]
-#### [Data cleaning](https://en.wikipedia.org/wiki/Data_cleansing)
+#### Data cleaning
 
 <p style="font-size:0.6em; color:gray">Data cleaning is about finding and correcting (or removing) inaccuracies from a dataset, a table, or a database. The process involves identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting them.</p>
 
@@ -131,9 +132,9 @@ Human-readable documents containing: analysis description and the results (figur
 @title[Notebook Kernels]
 ### Notebook Kernels
 
-- Jupyter Notebooks use a “kernel”, which is kind of like an interpreter. This is what turns a programming language into instructions the computer understands so it can do the work. 
-- In regular computers a kernel connects the application software to the computer hardware. In the case of Jupyter Notebooks, this application permits displaying, editing and running program commands via a web browser.
-- Notebooks use blocks of code to perform computational processes resulting in outputs, or results.
+<p style="font-size:0.6em; color:gray">- Jupyter Notebooks use a “kernel”, which is kind of like an interpreter. This is what turns a programming language into instructions the computer understands so it can do the work.</p> 
+<p style="font-size:0.6em; color:gray">- In regular computers a kernel connects the application software to the computer hardware. In the case of Jupyter Notebooks, this application permits displaying, editing and running program commands via a web browser.</p>
+<p style="font-size:0.6em; color:gray">- Notebooks use blocks of code to perform computational processes resulting in outputs, or results.</p>
 
 Note: 
 Different kernels can be installed for different types and versions of programming languages. The kernel in the notebook is a program that runs code written in a specific programming language.
@@ -142,22 +143,21 @@ Different kernels can be installed for different types and versions of programmi
 @title[Code and Markdown]
 #### Code and Markdown
 
-- **Code**: "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
-- **Output**: In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.
-- **Markdown**: "Markdown" is formatted text you want to include such as headings, italics, quotes and other types of styling. It might be a description, a note, a question (as context). 
-- **Cells**: Jupyter notebooks are a series of “cells” containing *executable code*, *outputs*, or *markdown*. 
+<p style="font-size:0.6em; color:gray">- **Code**: "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.</p>
+<p style="font-size:0.6em; color:gray">- **Output**: In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.</p>
+<p style="font-size:0.6em; color:gray">- **Markdown**: "Markdown" is formatted text you want to include such as headings, italics, quotes and other types of styling. It might be a description, a note, a question (as context).</p> 
+<p style="font-size:0.6em; color:gray">- **Cells**: Jupyter notebooks are a series of “cells” containing *executable code*, *outputs*, or *markdown*.</p> 
 
-<p style="font-size:0.6em; color:gray">Cells might contain code executed (through the kernel) or markdown formatted text (including [LaTeX](https://www.latex-project.org/)) to embed the description of the work process next to the code.</p>
+<p style="font-size:0.4em; color:gray">Cells might contain code executed (through the kernel) or markdown formatted text (including [LaTeX](https://www.latex-project.org/)) to embed the description of the work process next to the code.</p>
 
 ---
 @title[Command Line]
 #### Compared to Command Line
 
-The [command line](https://en.wikipedia.org/wiki/Command-line_interface) does not include notes. 
-In Jupyter Notebooks you can also go back and delete or change code or text as you go, which you cannot do using the command line. 
+<p style="font-size:0.6em; color:gray">Command line does not include notes. In Jupyter Notebooks you can also go back and delete or change code or text as you go, which you cannot do using the command line.</p> 
 <p style="font-size:0.6em; color:gray">Notebooks present markdown and visualisations inline - meaning you can see the both at the same time and the parts that aren't code do not interfere with the code. It results in a highly flexibly but user-friendly environment that can perform complicated tasks very quickly.</p>
 
-<p style="font-size:0.6em; color:gray">Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an **.ipynb** extension.</p> 
+<p style="font-size:0.4em; color:gray">Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an **.ipynb** extension.</p> 
 
 ---
 @title[Summary]
