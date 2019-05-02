@@ -174,7 +174,6 @@ A notebook:
 ## Hands On
 
 - Look at an example of a Jupyter Notebook [in GitHub](https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/AARNet_Intro_Jupyter.ipynb)
-
 - Identify the cells, what is input and what is output, and what is markdown. Discuss the types of output. 
 - Examine the code. Different colours are used. Have you seen that before? Why do you think different colours are used?
 
