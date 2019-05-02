@@ -164,7 +164,7 @@ Different kernels can be installed for different types and versions of programmi
 
 ---
 @title[JSON]
-<p style="font-size:0.4em; color:gray">Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an **.ipynb** extension.</p> 
+<p style="font-size:0.4em; color:gray">Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with ".ipynb" as the file extension e.g. yourfilename.ipynb</p> 
 <img src="images/notebook_json.png" width="500">
 
 ---
