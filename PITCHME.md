@@ -75,10 +75,6 @@ Note:
 #### Statistical Modelling
 Linear regression: is a statistical model used to reveal a relationship between two variables.
 
-![Linear regression](https://upload.wikimedia.org/wikipedia/commons/5/53/Linear_least_squares_example2.png)
-
----
-
 <a title="Oleg Alexandrov [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Linear_least_squares_example2.png"><img width="256" alt="Linear least squares example2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Linear_least_squares_example2.png/256px-Linear_least_squares_example2.png"></a>
 
 ---
