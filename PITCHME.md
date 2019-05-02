@@ -4,7 +4,7 @@
 <p style="font-size:0.6em; color:gray">C3DIS 2019</p> 
 
 
-Note:
+Note: 
 A first look at notebooks, why they are useful and how to use them. Then some time working with a notebook.     
 
 ---
@@ -104,9 +104,7 @@ Note:
 - Document files comprised of JSON > *yourfilenam.ipynb*
 
 Note:
-Human-readable documents containing:
-- analysis description and the results (figures, tables, etc..)
-- executable documents which can be run to perform data analysis
+Human-readable documents containing: analysis description and the results (figures, tables, etc..) and executable documents which can be run to perform data analysis. 
 
 ---
 
