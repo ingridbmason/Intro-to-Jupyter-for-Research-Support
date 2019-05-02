@@ -68,9 +68,15 @@ Note:
 @title[Numerical Simulation]
 #### Numerical Simulation
 
+![Numerical simulation examples](https://www.youtube.com/watch?v=Wy6mXfwLwf4)
+
 ---
 @title[Statistical Modelling]
-#### Statistical Modelling
+#### [Statistical Modelling](https://en.wikipedia.org/wiki/Statistical_model)
+
+>Linear regression: is a statistical model used to reveal a relationship between two variables.</p>
+
+![Linear regression](https://en.wikipedia.org/wiki/Linear_regression#/media/File:Linear_regression.svg)
 
 ---
 @title[Programming Languages]
