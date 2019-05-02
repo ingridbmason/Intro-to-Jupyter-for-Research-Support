@@ -43,7 +43,7 @@ Jupyter Notebooks offer a hybrid environment in which you can perform computatio
 @title[Notebook Overview]
 ### What can Jupyter Notebooks do?
 
-<p style="font-size:0.6em; color:gray">>“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.”</p>
+<p style="font-size:0.6em; color:gray">“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.”</p>
 
 –description from [Project Jupyter](https://jupyter.org/)
 
@@ -74,7 +74,7 @@ Note:
 @title[Statistical Modelling]
 #### [Statistical Modelling](https://en.wikipedia.org/wiki/Statistical_model)
 
->Linear regression: is a statistical model used to reveal a relationship between two variables.</p>
+<p style="font-size:0.6em; color:gray">Linear regression: is a statistical model used to reveal a relationship between two variables.</p>
 
 ![Linear regression](https://en.wikipedia.org/wiki/Linear_regression#/media/File:Linear_regression.svg)
 
