@@ -165,12 +165,12 @@ Different kernels can be installed for different types and versions of programmi
 ---
 @title[JSON View]
 <p style="font-size:0.4em; color:gray">Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with ".ipynb" as the file extension e.g. yourfilename.ipynb</p> 
-<img src="images/notebook_json.png" width="500">
+<img src="images/notebook_json.png" width="400">
 
 ---
 @title[Notebook View]
 <p style="font-size:0.4em; color:gray">Jupyter Notebooks are viewed as file with cells, containing code, outputs or markdown.</p>
-<img src="images/notebook_file.png" width="500">
+<img src="images/notebook_file.png" width="400">
 
 ---
 @title[Summary]
