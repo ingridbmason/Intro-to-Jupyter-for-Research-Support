@@ -132,9 +132,9 @@ Human-readable documents containing: analysis description and the results (figur
 @title[Notebook Kernels]
 ### Notebook Kernels
 
-<p style="font-size:0.6em; color:gray">- Jupyter Notebooks use a “kernel”, which is kind of like an interpreter. This is what turns a programming language into instructions the computer understands so it can do the work.</p> 
-<p style="font-size:0.6em; color:gray">- In regular computers a kernel connects the application software to the computer hardware. In the case of Jupyter Notebooks, this application permits displaying, editing and running program commands via a web browser.</p>
-<p style="font-size:0.6em; color:gray">- Notebooks use blocks of code to perform computational processes resulting in outputs, or results.</p>
+<p style="font-size:0.6em; color:gray">Jupyter Notebooks use a “kernel”, which is kind of like an interpreter. This is what turns a programming language into instructions the computer understands so it can do the work.</p> 
+<p style="font-size:0.6em; color:gray">In regular computers a kernel connects the application software to the computer hardware. In the case of Jupyter Notebooks, this application permits displaying, editing and running program commands via a web browser.</p>
+<p style="font-size:0.6em; color:gray">Notebooks use blocks of code to perform computational processes resulting in outputs, or results.</p>
 
 Note: 
 Different kernels can be installed for different types and versions of programming languages. The kernel in the notebook is a program that runs code written in a specific programming language.
@@ -143,10 +143,10 @@ Different kernels can be installed for different types and versions of programmi
 @title[Code and Markdown]
 #### Code and Markdown
 
-<p style="font-size:0.6em; color:gray">- **Code**: "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.</p>
-<p style="font-size:0.6em; color:gray">- **Output**: In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.</p>
-<p style="font-size:0.6em; color:gray">- **Markdown**: "Markdown" is formatted text you want to include such as headings, italics, quotes and other types of styling. It might be a description, a note, a question (as context).</p> 
-<p style="font-size:0.6em; color:gray">- **Cells**: Jupyter notebooks are a series of “cells” containing *executable code*, *outputs*, or *markdown*.</p> 
+<p style="font-size:0.6em; color:gray">**Code**: "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.</p>
+<p style="font-size:0.6em; color:gray">**Output**: In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.</p>
+<p style="font-size:0.6em; color:gray">**Markdown**: "Markdown" is formatted text you want to include such as headings, italics, quotes and other types of styling. It might be a description, a note, a question (as context).</p> 
+<p style="font-size:0.6em; color:gray">**Cells**: Jupyter notebooks are a series of “cells” containing *executable code*, *outputs*, or *markdown*.</p> 
 
 <p style="font-size:0.4em; color:gray">Cells might contain code executed (through the kernel) or markdown formatted text (including [LaTeX](https://www.latex-project.org/)) to embed the description of the work process next to the code.</p>
 
@@ -163,20 +163,22 @@ Different kernels can be installed for different types and versions of programmi
 @title[Summary]
 #### Summary
 
-- A notebook can either run on your desktop with no internet or on a remote server via the internet 
-- A notebook requires a kernel (computational engine) to execute code e.g. Python or R
-- A notebook runs and stores the code and output, with markdown notes
-- A notebook is an editable document with input and output cells 
+A notebook:
+- Runs on your desktop with no internet or on a remote server via the internet 
+- Requires a kernel (computational engine) to execute code e.g. Python or R
+- Runs and stores the code and output, with markdown notes
+- Is an editable document with input and output cells 
 
 ---
 @title[Hands On]
 ## Hands On
 
-- Look at an example of a Jupyter Notebook in GitHub. Start here: (https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/AARNet_Intro_Jupyter.ipynb)
+- Look at an example of a Jupyter Notebook [in GitHub](https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/AARNet_Intro_Jupyter.ipynb)
+
 - Identify the cells, what is input and what is output, and what is markdown. Discuss the types of output. 
 - Examine the code. Different colours are used. Have you seen that before? Why do you think different colours are used?
 
-<p style="font-size:0.6em; color:gray">If you have seen or used the command line before, can you think of any reasons why Notebooks might be easier to use? Discuss your ideas and experiences with the group. If you haven't used the command line before, have a think about why notebooks could be less daunting for beginners.</p>
+<p style="font-size:0.em; color:gray">If you have seen or used the command line before, can you think of any reasons why Notebooks might be easier to use? Discuss your ideas and experiences with the group. If you haven't used the command line before, have a think about why notebooks could be less daunting for beginners.</p>
 
 ---
 
