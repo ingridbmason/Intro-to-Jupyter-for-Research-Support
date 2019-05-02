@@ -113,9 +113,9 @@ Note:
 
 - Used to capture documentation and executable code 
 - An editable document with input and output “cells” (text strings) 
-- Document files comprised of JSON > *yourfilenam.ipynb*
+- Document files e.g. *yourfilename.ipynb*
 
-Note: 
+Note:   
 Human-readable documents containing: analysis description and the results (figures, tables, etc..) and executable documents which can be run to perform data analysis. 
 
 ---
@@ -130,13 +130,12 @@ Human-readable documents containing: analysis description and the results (figur
 @title[Notebook Kernels]
 ### Notebook Kernels
 
-- Jupyter Notebooks use a “kernel”, which is kind of like an interpreter. This is what turns a programming language into instructions the computer understands so it can do the work. In regular computers a kernel connects the application software to the computer hardware. In the case of Jupyter Notebooks, this application permits displaying, editing and running program commands via a web browser.
-
+- Jupyter Notebooks use a “kernel”, which is kind of like an interpreter. This is what turns a programming language into instructions the computer understands so it can do the work. 
+- In regular computers a kernel connects the application software to the computer hardware. In the case of Jupyter Notebooks, this application permits displaying, editing and running program commands via a web browser.
 - Notebooks use blocks of code to perform computational processes resulting in outputs, or results.
 
 Note: 
 Different kernels can be installed for different types and versions of programming languages. The kernel in the notebook is a program that runs code written in a specific programming language.
-- Activity: In this workshop we will look at the two most used languages in data analysis, Python and R.  
 
 ---
 @title[Code and Markdown]
@@ -150,3 +149,14 @@ Different kernels can be installed for different types and versions of programmi
 <p style="font-size:0.6em; color:gray">Cells might contain code executed (through the kernel) or markdown formatted text (including [LaTeX](https://www.latex-project.org/)) to embed the description of the work process next to the code.</p>
 
 ---
+@title[Command Line]
+### Compared to Command Line
+
+The [command line](https://en.wikipedia.org/wiki/Command-line_interface) does not include notes. 
+In Jupyter Notebooks you can also go back and delete or change code or text as you go, which you cannot do using the command line. 
+<p style="font-size:0.6em; color:gray">Notebooks present markdown and visualisations inline - meaning you can see the both at the same time and the parts that aren't code do not interfere with the code. It results in a highly flexibly but user-friendly environment that can perform complicated tasks very quickly.</p>
+
+<p style="font-size:0.6em; color:gray">Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an **.ipynb** extension.</p> 
+
+
+
