@@ -1,5 +1,5 @@
-@title[Intro to Jupyter]
-### Intro to Jupyter 
+@title[Introduction]
+### Intro to Jupyter Notebooks
 <p style="color:gray">For Research Support Specialists</p>
 <p style="font-size:0.6em; color:gray">C3DIS 2019</p> 
 
@@ -96,3 +96,20 @@ Note:
 - Activity: In pairs, talk about which programming language might make the most sense for you and why. When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
 
 ---
+@title[Notebook Technical]
+### Notebook Technical Description
+
+- Used to capture documentation and executable code 
+- An editable document with input and output “cells” (text strings) 
+- Document files comprised of JSON > *yourfilenam.ipynb*
+
+Note:
+Human-readable documents containing:
+- analysis description and the results (figures, tables, etc..)
+- executable documents which can be run to perform data analysis
+
+---
+
+
+
+
