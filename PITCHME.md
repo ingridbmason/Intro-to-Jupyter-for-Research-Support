@@ -177,7 +177,9 @@ A notebook:
 - Identify the cells, what is input and what is output, and what is markdown. Discuss the types of output. 
 - Examine the code. Different colours are used. Have you seen that before? Why do you think different colours are used?
 
-<p style="font-size:0.em; color:gray">If you have seen or used the command line before, can you think of any reasons why Notebooks might be easier to use? Discuss your ideas and experiences with the group. If you haven't used the command line before, have a think about why notebooks could be less daunting for beginners.</p>
+Note: 
+
+If you have seen or used the command line before, can you think of any reasons why Notebooks might be easier to use? Discuss your ideas and experiences with the group. If you haven't used the command line before, have a think about why notebooks could be less daunting for beginners.
 
 ---
 
