@@ -37,7 +37,7 @@ Note:
 @title[Notebook Description]
 ### Overview
 
-Jupyter Notebooks offer a hybrid environment in which you can perform computational tasks while also using text to annotate or describe what you and your code blocks are doing. It is like a mix between working in a command line interface, writing arguments in a programming language, and working in a word processor application, writing up documentation. 
+<p style="font-size:0.6em; color:gray">Jupyter Notebooks offer a hybrid environment in which you can perform computational tasks while also using text to annotate or describe what you and your code blocks are doing. It is like a mix between working in a command line interface, writing arguments in a programming language, and working in a word processor application, writing up documentation.</p> 
 
 ---
 @title[Notebook Overview]
@@ -51,7 +51,7 @@ Jupyter Notebooks offer a hybrid environment in which you can perform computatio
 @title[Data Cleaning]
 #### [Data cleaning](https://en.wikipedia.org/wiki/Data_cleansing)
 
-Data cleaning is about finding and correcting (or removing) inaccuracies from a dataset, a table, or a database. The process involves identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting them.
+<p style="font-size:0.6em; color:gray">Data cleaning is about finding and correcting (or removing) inaccuracies from a dataset, a table, or a database. The process involves identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting them.</p>
 
 Note:
 In Jupyter Notebooks you can preview and analyse a limited number of columns and rows of data at a time, so you can see if there are blanks or repeated errors or inaccuracies. In addition, working directly with a large dataset without having to download it can save a lot of time.
@@ -60,7 +60,7 @@ In Jupyter Notebooks you can preview and analyse a limited number of columns and
 @title[Data Transformation]
 #### Data transformation
 
-Data transformation is the process of converting data values from one source format or structure to another so they become consistent or intelligbible to a target structure or system. A typical scenario where information needs to be shared involves the extraction of the data from the source application or data custodian, the transformation of that data into another format, and finally loading the transformed data into the target location.
+<p style="font-size:0.6em; color:gray">Data transformation is the process of converting data values from one source format or structure to another so they become consistent or intelligbible to a target structure or system. A typical scenario where information needs to be shared involves the extraction of the data from the source application or data custodian, the transformation of that data into another format, and finally loading the transformed data into the target location.</p>
 
 Note: 
 
@@ -76,7 +76,7 @@ Note:
 
 <p style="font-size:0.6em; color:gray">Linear regression: is a statistical model used to reveal a relationship between two variables.</p>
 
-![Linear regression](https://en.wikipedia.org/wiki/Linear_regression#/media/File:Linear_regression.svg)
+![Linear regression](https://en.wikipedia.org/wiki/Linear_regression#/media/File:Linear_least_squares_example2.png)
 
 ---
 @title[Programming Languages]
