@@ -53,7 +53,9 @@ Jupyter Notebooks offer a hybrid environment in which you can perform computatio
 
 Jupyter Notebooks can be used with a variety of different programming languages. Initially the notebookes were for *Julia*, *Python* and *R* but now they support many more languages. 
 
+<p style="font-size:0.6em; color:gray">If you don't know the languages researchers use, it might be helpful to think about the types of tasks they want to perform. Python is currently the most popular language used in Jupyter Notebooks as well as R, you can also consider what is commonly used in different fields of research.</p>
+
 Note:
-If you don't know the languages researchers use, it might be helpful to think about the types of tasks they want to perform. Python is currently the most popular language used in Jupyter Notebooks as well as R, you can also consider what is commonly used in different fields of research.
+- Activity: 
 
 ---
