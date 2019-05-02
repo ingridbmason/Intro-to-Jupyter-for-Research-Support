@@ -67,13 +67,14 @@ Note:
 ---
 @title[Numerical Simulation]
 #### Numerical Simulation
+Simulation can be used to trace waves e.g. seismic or shock waves.   
 
-![Numerical simulation examples](https://www.youtube.com/watch?v=Wy6mXfwLwf4)
+<a title="Nick Rogers [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Inviscid_Burgers_Equation_in_Two_Dimensions.gif"><img width="256" alt="Inviscid Burgers Equation in Two Dimensions" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Inviscid_Burgers_Equation_in_Two_Dimensions.gif"></a>
 
 ---
 @title[Statistical Modelling]
 #### Statistical Modelling
-Linear regression: is a statistical model used to reveal a relationship between two variables.
+Linear regression: is a type of statistical model used to reveal a relationship between two variables.
 
 <a title="Oleg Alexandrov [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Linear_least_squares_example2.png"><img width="256" alt="Linear least squares example2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Linear_least_squares_example2.png/256px-Linear_least_squares_example2.png"></a>
 
