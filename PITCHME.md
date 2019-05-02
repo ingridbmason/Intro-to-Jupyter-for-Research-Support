@@ -72,9 +72,8 @@ Note:
 
 ---
 @title[Statistical Modelling]
-#### [Statistical Modelling](https://en.wikipedia.org/wiki/Statistical_model)
-
-<p style="font-size:0.6em; color:gray">Linear regression: is a statistical model used to reveal a relationship between two variables.</p>
+#### Statistical Modelling
+Linear regression: is a statistical model used to reveal a relationship between two variables.
 
 ![Linear regression](https://en.wikipedia.org/wiki/Linear_regression#/media/File:Linear_least_squares_example2.png)
 
