@@ -29,8 +29,8 @@ Notes?
 Keypoints: Notebooks may or may not be useful for researchers! But if they are, they could accelerate research or just improve a few processes to make life less tedious. :)
 
 Note:
-Objectives: Understand what notebooks are capable of
-Activity: How could you see a notebook being useful to researchers?
+- Objectives: Understand what notebooks are capable of. 
+- Activity: How could you see a notebook being useful to researchers?
 
 ---
 @title[Notebook Overview]
@@ -45,5 +45,3 @@ Jupyter Notebooks offer a hybrid environment in which you can perform computatio
 –description from [Project Jupyter](https://jupyter.org/)
 
 ---
-
-
