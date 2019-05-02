@@ -96,18 +96,25 @@ Note:
 - Activity: In pairs, talk about which programming language might make the most sense for you and why. When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
 
 ---
-@title[Notebook Technical]
-### Notebook Technical Description
+@title[Technical Breakdown]
+### Technical Breakdown
 
 - Used to capture documentation and executable code 
 - An editable document with input and output “cells” (text strings) 
 - Document files comprised of JSON > *yourfilenam.ipynb*
 
-Note:
+Note: 
 Human-readable documents containing: analysis description and the results (figures, tables, etc..) and executable documents which can be run to perform data analysis. 
 
 ---
+@title[Notebook Operation]
+### Notebook Operation
 
+- Editable and viewable in a web browser
+- Can run on local machine with no internet
+- Can run on remote machine with internet
+
+---
 
 
 
