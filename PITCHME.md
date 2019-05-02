@@ -164,7 +164,8 @@ Different kernels can be installed for different types and versions of programmi
 
 ---
 @title[JSON]
-![JSON](images/notebook_json.png)
+
+<img src="images/notebook_json.png" width="100">
 
 ---
 @title[Summary]
