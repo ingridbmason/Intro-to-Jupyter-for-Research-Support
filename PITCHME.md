@@ -25,7 +25,7 @@ If we have time, we can have a go at using R too, with some basic commands.
 @title[Notebook Function]
 ### Notebook Function 
 
-- Notebooks may or may not be useful for researchers! 
+- Notebooks may be useful for researchers! 
 - Notebooks could accelerate research or just improve a few processes to make life less tedious. :)
 
 Note:
