@@ -43,7 +43,7 @@ Note:
 @title[Notebook Overview]
 ### What can Jupyter Notebooks do?
 
-<p style="font-size:0.6em; color:gray">“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.”</p>
+<p style="font-size:0.6em; color:gray">“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualisations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.”</p>
 
 –description from [Project Jupyter](https://jupyter.org/)
 
@@ -62,8 +62,6 @@ In Jupyter Notebooks you can preview and analyse a limited number of columns and
 
 <p style="font-size:0.6em; color:gray">Data transformation is the process of converting data values from one source format or structure to another so they become consistent or intelligbible to a target structure or system. A typical scenario where information needs to be shared involves the extraction of the data from the source application or data custodian, the transformation of that data into another format, and finally loading the transformed data into the target location.</p>
 
-Note: 
-
 ---
 @title[Numerical Simulation]
 #### Numerical Simulation
@@ -77,6 +75,13 @@ Simulation can be used to trace waves e.g. seismic or shock waves.
 Linear regression: is a type of statistical model used to reveal a relationship between two variables.
 
 <a title="Oleg Alexandrov [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Linear_least_squares_example2.png"><img width="256" alt="Linear least squares example2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Linear_least_squares_example2.png/256px-Linear_least_squares_example2.png"></a>
+
+---
+@title[Data Visualisation]
+#### Data Visualisation
+Network analysis: is a form of data visualisation of nodes of different sizes connected in a network.  
+
+<a title="Martin Grandjean [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Social_Network_Analysis_Visualization.png"><img width="512" alt="Social Network Analysis Visualization" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Social_Network_Analysis_Visualization.png/512px-Social_Network_Analysis_Visualization.png"></a>
 
 ---
 @title[Programming Languages]
