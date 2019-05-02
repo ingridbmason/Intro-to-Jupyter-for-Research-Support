@@ -160,11 +160,11 @@ Different kernels can be installed for different types and versions of programmi
 <p style="font-size:0.6em; color:gray">Command line does not include notes. In Jupyter Notebooks you can also go back and delete or change code or text as you go, which you cannot do using the command line.</p> 
 <p style="font-size:0.6em; color:gray">Notebooks present markdown and visualisations inline - meaning you can see the both at the same time and the parts that aren't code do not interfere with the code. It results in a highly flexibly but user-friendly environment that can perform complicated tasks very quickly.</p>
 
-<p style="font-size:0.4em; color:gray">Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an **.ipynb** extension.</p> 
+
 
 ---
 @title[JSON]
-
+<p style="font-size:0.4em; color:gray">Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an **.ipynb** extension.</p> 
 <img src="images/notebook_json.png" width="500">
 
 ---
