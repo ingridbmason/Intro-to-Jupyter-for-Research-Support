@@ -5,6 +5,7 @@
 
 
 Note: 
+
 A first look at notebooks, why they are useful and how to use them. Then some time working with a notebook.     
 
 ---
@@ -139,7 +140,7 @@ Different kernels can be installed for different types and versions of programmi
 
 ---
 @title[Code and Markdown]
-### Code and Markdown
+#### Code and Markdown
 
 - **Code**: "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
 - **Output**: In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.
@@ -150,7 +151,7 @@ Different kernels can be installed for different types and versions of programmi
 
 ---
 @title[Command Line]
-### Compared to Command Line
+#### Compared to Command Line
 
 The [command line](https://en.wikipedia.org/wiki/Command-line_interface) does not include notes. 
 In Jupyter Notebooks you can also go back and delete or change code or text as you go, which you cannot do using the command line. 
@@ -158,5 +159,25 @@ In Jupyter Notebooks you can also go back and delete or change code or text as y
 
 <p style="font-size:0.6em; color:gray">Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an **.ipynb** extension.</p> 
 
+---
+@title[Summary]
+#### Summary
+
+- A notebook can either run on your desktop with no internet or on a remote server via the internet 
+- A notebook requires a kernel (computational engine) to execute code e.g. Python or R
+- A notebook runs and stores the code and output, with markdown notes
+- A notebook is an editable document with input and output cells 
+
+---
+@title[Hands On]
+## Hands On
+
+- Look at an example of a Jupyter Notebook in GitHub. Start here: (https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/AARNet_Intro_Jupyter.ipynb)
+- Identify the cells, what is input and what is output, and what is markdown. Discuss the types of output. 
+- Examine the code. Different colours are used. Have you seen that before? Why do you think different colours are used?
+
+<p style="font-size:0.6em; color:gray">If you have seen or used the command line before, can you think of any reasons why Notebooks might be easier to use? Discuss your ideas and experiences with the group. If you haven't used the command line before, have a think about why notebooks could be less daunting for beginners.</p>
+
+---
 
 
