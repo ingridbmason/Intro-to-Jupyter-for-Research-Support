@@ -10,11 +10,11 @@ A first look at notebooks, why they are useful and how to use them. Then some ti
 ---
 @title[Agenda]
 ### Agenda 
-- What is a Jupyter notebook and how does it function. 30 mins
-- Where does a Jupyter notebook fit in different researcher toolkits. 45 mins
-- Why use Jupyter notebook on a desktop and why use it in the cloud. 30 mins
-- Basic Python programming using a Jupyter notebook. 30 mins
-- Wrap up. 10 mins
+- What is a Jupyter notebook and how does it function. *30 mins*
+- Where does a Jupyter notebook fit in different researcher toolkits. *45 mins*
+- Why use Jupyter notebook on a desktop and why use it in the cloud. *30 mins*
+- Basic Python programming using a Jupyter notebook. *30 mins*
+- Wrap up. *10 mins*
 
 <p style="font-size:0.6em; color:gray">\*workshop is ~3 hours including breaks </p> 
 
@@ -96,6 +96,18 @@ Note:
 - Activity: In pairs, talk about which programming language might make the most sense for you and why. When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
 
 ---
+@title[Technical Overview]
+## Technical Overview
+
+You don't need anything special to run a notebook - just a browser will do!
+
+<p style="font-size:0.6em; color:gray">Jupyter Notebooks don't need much to get going. They are editable and viewable in a web browser. You can also run them on a local machine with no internet or a remote machine with internet. They are very flexible and free!</p>
+
+Note: 
+- Objective: Understand how notebooks run and how they are different to the command line
+- Activity: Look at an example on GitHub
+
+---
 @title[Technical Breakdown]
 ### Technical Breakdown
 
@@ -115,6 +127,26 @@ Human-readable documents containing: analysis description and the results (figur
 - Can run on remote machine with internet
 
 ---
+@title[Notebook Kernels]
+### Notebook Kernels
 
+- Jupyter Notebooks use a “kernel”, which is kind of like an interpreter. This is what turns a programming language into instructions the computer understands so it can do the work. In regular computers a kernel connects the application software to the computer hardware. In the case of Jupyter Notebooks, this application permits displaying, editing and running program commands via a web browser.
 
+- Notebooks use blocks of code to perform computational processes resulting in outputs, or results.
 
+Note: 
+Different kernels can be installed for different types and versions of programming languages. The kernel in the notebook is a program that runs code written in a specific programming language.
+- Activity: In this workshop we will look at the two most used languages in data analysis, Python and R.  
+
+---
+@title[Code and Markdown]
+### Code and Markdown
+
+- **Code**: "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
+- **Output**: In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.
+- **Markdown**: "Markdown" is formatted text you want to include such as headings, italics, quotes and other types of styling. It might be a description, a note, a question (as context). 
+- **Cells**: Jupyter notebooks are a series of “cells” containing *executable code*, *outputs*, or *markdown*. 
+
+<p style="font-size:0.6em; color:gray">Cells might contain code executed (through the kernel) or markdown formatted text (including [LaTeX](https://www.latex-project.org/)) to embed the description of the work process next to the code.</p>
+
+---
