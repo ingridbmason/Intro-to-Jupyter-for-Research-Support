@@ -43,3 +43,7 @@ Jupyter Notebooks offer a hybrid environment in which you can perform computatio
 >“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.”
 
 –description from [Project Jupyter](https://jupyter.org/)
+
+---
+
+
