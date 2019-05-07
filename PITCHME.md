@@ -189,6 +189,11 @@ A notebook:
 - Requires a kernel (computational engine) to execute code e.g. Python or R
 - Runs and stores the code and output, with markdown notes
 - Is an editable document with input and output cells 
+---
+@title[Postscript]
+#### Postscript
+
+A notebook is a terrific way of keeping a record of research, research data processing and techniques, that enables research to be repeated, duplicated, tested, and shared.  
 
 ---
 @title[Hands On]
