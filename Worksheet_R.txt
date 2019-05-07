@@ -1,0 +1,41 @@
+
+# Let’s go for a dip with R
+
+# this is a string
+
+# this is a string
+
+_this is a string_
+
+"this is a string"
+
+x <- "this is a string"
+print(x)
+
+print(x, quote = FALSE)
+
+
+# Ready to splash a little with R
+
+1:19
+
+sum(1:19)
+
+x = c(3, 5, 8, 9)
+y = c('Jack','Queen','King')
+
+sum(x)
+
+x[2]
+
+matrix(y,2,3,byrow=T)
+
+
+# Paddling with R
+
+employee <- c("Juanita Lopez", "Peter Gynn", "Jolie Talofa")
+salary <- c(81000, 83400, 96800)
+startdate <- as.Date(c("2010-11-1", "2008-3-25", "2007-3-14"))
+employ.data <- data.frame(employee, salary, startdate)
+employ.data <- data.frame(employee, salary, startdate, stringsAsFactors = FALSE)
+employ.data

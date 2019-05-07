@@ -1,0 +1,62 @@
+# Let's go for a dip with Python
+
+# this is a string
+
+# this is a string
+
+_this is a string_ 
+
+print ("this is a string")
+
+print ("\"this is a string\"")
+
+
+# Ready to splash a little with Python
+
+list(range(1,20))
+
+a = list(range(1,20))
+x = sum(a)
+print(x)
+
+
+# Paddling with Python
+
+arr = ["Jack", "Queen", "King"]
+print(arr[0])
+print(arr[1])
+print(arr[2])
+
+d = {'employee': 'Juanita Lopez','salary':81000, 'startdate': '2010-11-1'}
+e = {'employee': 'Peter Gynn','salary':83400, 'startdate': '2008-3-25'}
+f = {'employee': 'Jolie Talofa','salary':96800, 'startdate': '2007-3-14'}
+print (d)
+print (e)
+print (f)
+
+d.keys()
+
+d.values()
+
+d.items()
+
+for k,v in d.items():
+    print(k, v)
+
+for k,v in e.items():
+    print(k, v)
+
+
+# Swimming with Python
+
+# -*- coding: iso-8859-1 -*-
+en_de = {"red" : "rot", "blue" : "blau", "yellow" : "gelb"}
+print (en_de)
+
+print (en_de["red"])
+
+de_fr = {"rot" : "rouge", "blau" : "bleu", "gelb" : "jaune"}
+print ("The French word for red is: " + de_fr[en_de["red"]])
+
+
+
