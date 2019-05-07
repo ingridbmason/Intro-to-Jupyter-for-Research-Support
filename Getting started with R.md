@@ -1,26 +1,30 @@
 ---
-Title: "Getting started with R"
-Teaching: 15
-Exercises: 1
-Question:
-- How do you open a notebook and what do you do when you get there?
-Objectives:
-- Open a notebook then use markdown and R to perform basic tasks
-Activity:
- - With a group, work on a calculation and have a go at changing some of the code to produce different results.
-Keypoints:
- - Get started, be fearless!
+## Lesson 
+
+"Getting started with R"
+- Teaching: 15 mins
+- Exercises: 1
+- Question: How do you open a notebook and what do you do when you get there?
+- Objectives: Open a notebook then use markdown and R to perform basic tasks
+- Activity: With a group, work on a calculation and have a go at changing some of the code to produce different results.
+- Keypoints: Get started, be fearless!
+
 ---
 ## Getting started
 
-Follow these step-by-step instructions to get started with Jupyter Notebooks using R:
+Follow these step-by-step instructions to get started with Jupyter Notebooks using Python:
 
-1. Open MyBinder: https://mybinder.org/
-2. Paste the link to this GitHub repository https://github.com/ingridbmason/Intro-to-Jupyter/ and click on LAUNCH.
+1. Open CloudStor: https://cloudstor.aarnet.edu.au/
+2. Select the SWAN service (Jupyter notebooks are integrated) and "spawn" a notebook.     
+
+
+![SWAN](https://github.com/ingridbmason/Intro-to-Jupyter-for-Research-Support/blob/master/images/swan_logo.png) 
+
 3. Open workshop list of commands in separate window: https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/Worksheet_R.txt
 4. Open a new notebook from the top righthand dropdown menu: Click on 'New' and then select R. 
 
-![New](https://user-images.githubusercontent.com/48195568/56337762-02459e00-61e6-11e9-8293-c19ba8d30c4c.jpg)
+![New](https://github.com/ingridbmason/Intro-to-Jupyter-for-Research-Support/blob/master/images/new_notebook.png)
+
 
 5. Select 'File' at the top left hand side of the screen and select 'Save As'. Name your notebook 'Intro to Jupyter Notebooks'.
 
