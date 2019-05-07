@@ -181,7 +181,9 @@ Different kernels can be installed for different types and versions of programmi
 - Plotting sunspot counts over time
 - Building molecules and assigning valances
 
-<p style="font-size:0.4em; color:gray">Jupyter Notebooks are used in a ![wide range of research areas](https://github.com/ingridbmason/Intro-to-Jupyter-for-Research-Support/blob/master/images/jupyter_gallery.png).</p>
+<p style="font-size:0.4em; color:gray">Jupyter Notebooks are used in a wide range of research areas</p>
+
+![Examples](/images/jupyter_gallery.png)
 
 
 Note:
