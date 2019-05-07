@@ -181,6 +181,13 @@ Different kernels can be installed for different types and versions of programmi
 <img src="images/jupyter_gallery.png" width="300">
 
 ---
+@title[Notebook Availability]
+#### Notebook Availability
+
+- Notebooks are widely available, offline using Anaconda, and online CloudStor SWAN, Jupyter.org, MyBinder, Google Colaboratory, AWS.  
+- Opportunities and challenges: portability, shareability, data colocation, research data management.     
+
+---
 @title[Summary]
 #### Summary
 
