@@ -175,6 +175,12 @@ Different kernels can be installed for different types and versions of programmi
 <img src="images/notebook_file.png" width="300">
 
 ---
+@title[Notebook Gallery]
+#### Notebook Gallery
+<p style="font-size:0.4em; color:gray">Jupyter Notebooks are used in a wide range of research areas.</p>
+<img src="images/notebook_gallery.png" width="300">
+
+---
 @title[Summary]
 #### Summary
 
