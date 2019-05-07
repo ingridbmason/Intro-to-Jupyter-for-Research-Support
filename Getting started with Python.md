@@ -27,7 +27,9 @@ Follow these step-by-step instructions to get started with Jupyter Notebooks usi
 ![New](https://github.com/ingridbmason/Intro-to-Jupyter-for-Research-Support/blob/master/images/new_notebook.png)
 
 
+
 5. Select 'File' at the top left hand side of the screen and select 'Save As'. Name your notebook 'Intro to Jupyter Notebooks'.
+
 
 ## Let's go for dip with Python
 
