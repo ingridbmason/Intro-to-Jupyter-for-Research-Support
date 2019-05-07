@@ -1,12 +1,12 @@
 ---
 ## Lesson
 "Getting started with Python"
-Teaching: 15 mins
-Exercises: 1
-Question: How do you open a notebook and what do you do when you get there?
-Objectives: Open a notebook then use markdown and Python to perform basic tasks
-Activity: With a group, work on markdown adjustments and have a go at changing some of the code to produce different results.
-Keypoints: Get started, be fearless!
+- Teaching: 15 mins
+- Exercises: 1
+- Question: How do you open a notebook and what do you do when you get there?
+- Objectives: Open a notebook then use markdown and Python to perform basic tasks
+- Activity: With a group, work on markdown adjustments and have a go at changing some of the code to produce different results.
+- Keypoints: Get started, be fearless!
 
 ---
 ## Getting started
