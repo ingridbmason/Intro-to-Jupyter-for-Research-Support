@@ -177,8 +177,12 @@ Different kernels can be installed for different types and versions of programmi
 ---
 @title[Notebook Gallery]
 #### Notebook Gallery
-<p style="font-size:0.4em; color:gray">Jupyter Notebooks are used in a wide range of research areas.</p>
-<img src="images/jupyter_gallery.png" width="300">
+- Plotting taxi drop off and pick up points on a map and using shading
+- Plotting sunspot counts over time
+- Building molecules and assigning valances
+
+<p style="font-size:0.4em; color:gray">Jupyter Notebooks are used in a ![wide range of research areas](https://github.com/ingridbmason/Intro-to-Jupyter-for-Research-Support/blob/master/images/jupyter_gallery.png).</p>
+
 
 Note:
 http://nbviewer.jupyter.org/gist/jhemann/4569783
