@@ -182,13 +182,14 @@ Different kernels can be installed for different types and versions of programmi
 - Building molecules and assigning valances
 
 <img src="images/jupyter_gallery.png" width="300">
-<p style="font-size:0.4em; color:gray">Jupyter Notebooks are used in a wide range of research areas</p>
 
 
-Note:
-http://nbviewer.jupyter.org/gist/jhemann/4569783
-http://nbviewer.jupyter.org/gist/greglandrum/4316433 
-https://anaconda.org/jbednar/nyc_taxi/notebook 
+Note: 
+
+Jupyter Notebooks are used in a wide range of research areas
+- http://nbviewer.jupyter.org/gist/jhemann/4569783
+- http://nbviewer.jupyter.org/gist/greglandrum/4316433 
+- https://anaconda.org/jbednar/nyc_taxi/notebook 
 
 ---
 @title[Notebook Availability]
