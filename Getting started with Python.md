@@ -13,8 +13,8 @@
 
 Follow these step-by-step instructions to get started with Jupyter Notebooks using Python:
 
-1. Open MyBinder: https://mybinder.org/
-2. Paste the link to this GitHub repository https://github.com/ingridbmason/Intro-to-Jupyter/ and click on LAUNCH.
+1. Open CloudStor: https://cloudstor.aarnet.edu.au/
+2. Select the ![SWAN](https://github.com/ingridbmason/Intro-to-Jupyter-for-Research-Support/blob/master/images/swan_logo.png) service (Jupyter notebooks are integrated)    
 3. Open workshop list of commands in separate window: https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/Worksheet_Python.txt
 4. Open a new notebook from the top righthand dropdown menu: Click on 'New' and then select Python 3. 
 
