@@ -14,12 +14,17 @@
 Follow these step-by-step instructions to get started with Jupyter Notebooks using Python:
 
 1. Open CloudStor: https://cloudstor.aarnet.edu.au/
-2. Select the SWAN service (Jupyter notebooks are integrated)    
+2. Select the SWAN service (Jupyter notebooks are integrated)   
+
+
+![SWAN](https://github.com/ingridbmason/Intro-to-Jupyter-for-Research-Support/blob/master/images/swan_logo.png) 
+
+
 3. Open workshop list of commands in separate window: https://github.com/ingridbmason/Intro-to-Jupyter/blob/master/Worksheet_Python.txt
 4. Open a new notebook from the top righthand dropdown menu: Click on 'New' and then select Python 3. 
 
 ![New](https://user-images.githubusercontent.com/48195568/56337762-02459e00-61e6-11e9-8293-c19ba8d30c4c.jpg)
-![SWAN](https://github.com/ingridbmason/Intro-to-Jupyter-for-Research-Support/blob/master/images/swan_logo.png) 
+
 
 5. Select 'File' at the top left hand side of the screen and select 'Save As'. Name your notebook 'Intro to Jupyter Notebooks'.
 
