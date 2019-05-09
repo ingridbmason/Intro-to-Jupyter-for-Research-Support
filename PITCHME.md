@@ -132,10 +132,17 @@ Human-readable documents containing: analysis description and the results (figur
 - Can run on remote machine with internet
 
 ---
-@title[Notebook Operation]
-### Notebook Operation
+@title[Notebook File System]
+### Notebook File System
+
+<img src="images/SWAN_filesystem.png" width="500">
+
+---
+@title[Notbook UI]
+### Notebook UI
 
 <img src="images/SWAN_notebookUI.png" width="500">
+
 
 ---
 @title[Notebook Kernels]
