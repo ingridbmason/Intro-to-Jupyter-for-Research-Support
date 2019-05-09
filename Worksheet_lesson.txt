@@ -78,8 +78,6 @@ Code: to sum up x					sum(x)
 Code: to get 2nd member of x 				x[2] 
 Code: matrix from x & y vectors				matrix(y,2,3,byrow=T)
 
-—
-
 Code: construct a data frame
 
 employee <- c("Juanita Lopez", "Peter Gynn", "Jolie Talofa")
