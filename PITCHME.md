@@ -157,15 +157,27 @@ Note:
 Different kernels can be installed for different types and versions of programming languages. The kernel in the notebook is a program that runs code written in a specific programming language.
 
 ---
-@title[Code and Markdown]
-#### Code and Markdown
+@title[Cells]
+#### Cells
 
-<p style="font-size:0.6em; color:gray">**Code**: "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.</p>
-<p style="font-size:0.6em; color:gray">**Output**: In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on.</p>
-<p style="font-size:0.6em; color:gray">**Markdown**: "Markdown" is formatted text you want to include such as headings, italics, quotes and other types of styling. It might be a description, a note, a question (as context).</p> 
-<p style="font-size:0.6em; color:gray">**Cells**: Jupyter notebooks are a series of “cells” containing *executable code*, *outputs*, or *markdown*.</p> 
+Jupyter notebooks are a series of “cells” containing *executable code*, *outputs*, or *markdown*.</p> 
+Cells might contain code executed (through the kernel) or markdown formatted text (including [LaTeX](https://www.latex-project.org/)) to embed the description of the work process next to the code.
 
-<p style="font-size:0.4em; color:gray">Cells might contain code executed (through the kernel) or markdown formatted text (including [LaTeX](https://www.latex-project.org/)) to embed the description of the work process next to the code.</p>
+---
+@title[Code]
+#### Code
+
+- Code: "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
+- Output: In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on
+
+---
+@title[Markdown]
+#### Markdown
+
+Markdown is formatted text you want to include such as headings, italics, quotes and other types of styling. It might be a description, a note, a question (as context).
+
+-see the overview from the [Markdown Guide](https://www.markdownguide.org/basic-syntax/) 
+
 
 ---
 @title[Command Line]
