@@ -322,13 +322,22 @@ Note:
 - No use for markdown or coding in the work a researcher does 
 - Work with small datasets that are easy to load into applications 
 - Not able to or keen on installing new software on a machine?*
-- Yet to see a notebook that they would like to copy and learn from 
-- Cell executing and ordering, and hidden state (easy to mess up)  
-- Saving and checkpointing (confusing) 
 
 Note:
 
 - The asterisk was a trick point, Jupyter operates in cloud services, but there are packages that may need to be loaded that are not available in different providers' services.  
+
+---
+@title[Why Not Use Jupyter?]
+### Why Not Use Jupyter 
+
+- Yet to see a notebook that they would like to copy and learn from 
+- Cell executing and ordering, and hidden state (easy to mess up)  
+- Saving and checkpointing (confusing) 
+
+
+Note:
+
 - Look through Joel Grus' slidedeck [I don't like notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit) given at JupyterCon 2018.   
 - Checkpoint (the notebook and the hidden checkpoint file .ipynb_checkpoints) to recover work. 
 
