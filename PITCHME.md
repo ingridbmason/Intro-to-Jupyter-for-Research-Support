@@ -254,6 +254,60 @@ Note:
 
 GLAM Workbench "Jupyter notebooks for working with cultural heritage collections from Australia and New Zealand"
 
+---
+@title[Example Notebook]
+#### Example Notebook
+
+OZ GLAM Workbench is 
+- [stored in GitHub](https://github.com/GLAM-Workbench/ozglam-workbench) 
+- [viewable through Jupyter viewer](https://nbviewer.jupyter.org/github/wragge/ozglam-workbench/blob/master/1-Introduction-and-table-of-contents.ipynb)
+- [rendered by MyBinder](https://mybinder.org/v2/gh/wragge/ozglam-workbench/master) or other services
+
+---
+@title[Notebook Use]
+#### Notebook Use
+
+- Learn how to code and experiment with data processing
+- Interactive, provides immediate feedback
+- Work in code blocks (not whole scripts)  
+
+Note:
+
+- Learn from others’ efforts and understand their data and research processes    
+- Test out calculations and visualisations that highlight important data points
+- Great for exploration data analysis, presenting results, sharing ideas 
+- Flexibility to test out ideas matched with jumping between cells in the notebook 
+- Works with version control software e.g. GitHub 
+- Shareable with those that don’t have the notebook installed e.g. GitHub or Nbviewer
+- Permits a quick set of steps: document and run code then look at code outcome e.g. equations or visualisations
+- Use for: testing a specific block of code, not the whole script 
+- More interactive: code display aids learning, interpretation, collaboration, understanding 
+- Instant feedback and ability to share easily 
+- Graphical rendering markdown and plots inline 
+
+---
+@title[Notebook Gotchas]
+#### Notebook Gotchas
+
+- “Working state” can be altered and make it difficult to reproduce results 
+- Not great for production code development 
+
+
+Note: 
+
+---
+@title[Why Not Use Jupyter?]
+### Why Not Use Jupyter
+
+- Other applications already help a researcher do what they need to
+- No use for markdown or coding in the work a researcher does 
+- Work with small datasets that are easy to load into applications 
+- Not able to or keen on installing new software on a machine?*
+- Yet to see a notebook that they would like to copy and learn from 
+
+Note:
+
+* was a trick point, Jupyter operates in cloud services, but there are packages that may need to be loaded that are not available in different providers' services 
 
 ---
 @title[Hands On]
