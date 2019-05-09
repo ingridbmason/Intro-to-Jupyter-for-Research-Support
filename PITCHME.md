@@ -230,6 +230,19 @@ The survey included a question for data professionals who were employed, “For 
 [2017 Survey](http://businessoverbroadway.com/2018/01/02/most-used-data-science-tools-and-technologies-in-2017-and-what-to-expect-for-2018/)
 
 ---
+@title[Researchers' Notebooks]
+### Researchers' Notebooks
+
+- Designed to make data analysis easier to share and reuse
+- Used increasingly by researchers who want to keep detailed records of their work
+
+Note:
+
+University of Texas at Austin, Tal Yarkoni uses the [notebook](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html) to run automated meta-analyses of brain imaging studies to uncover patterns of neural activity involved in language processing, emotion and other processes.
+
+
+
+---
 @title[Hands On]
 ## Hands On
 
