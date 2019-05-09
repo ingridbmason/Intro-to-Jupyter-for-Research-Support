@@ -240,6 +240,19 @@ Note:
 
 University of Texas at Austin, Tal Yarkoni uses the [notebook](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html) to run automated meta-analyses of brain imaging studies to uncover patterns of neural activity involved in language processing, emotion and other processes.
 
+---
+@title[Using Notebooks]
+### Using Notebooks
+
+- Devise teaching modules and collaborate with colleagues 
+- Researchers are publishing the notebooks to back up their research papers
+- Using jupyter notebooks as a new form of interactive research publishing
+
+-check out the [GLAM Workbench](https://github.com/GLAM-Workbench) and [Digital History Workshop](https://slides.com/wragge/digital-history-workshop-anu-2019#/) by Dr Tim Sherratt 
+
+Note:
+
+GLAM Workbench "Jupyter notebooks for working with cultural heritage collections from Australia and New Zealand"
 
 
 ---
