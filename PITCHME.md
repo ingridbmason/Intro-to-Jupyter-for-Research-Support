@@ -242,7 +242,8 @@ Note:
 University of Texas at Austin, Tal Yarkoni uses the [notebook](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html) to run automated meta-analyses of brain imaging studies to uncover patterns of neural activity involved in language processing, emotion and other processes.
 
 ---
-@title[
+@title[Research Use]
+### Research Use
 
 - Research questions don’t marry with functions in commercial tools  
 - Automating analyses to speed up data crunching 
