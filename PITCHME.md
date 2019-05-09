@@ -253,8 +253,15 @@ University of Texas at Austin, Tal Yarkoni uses the [notebook](http://arogozhnik
 
 Note:
 
-Researchers can't look through 10,000s of data points anymore in e.g. spreadsheets, to analyse that data researchers are beginning to write custom code (using different programming languages) that works with more data and fit with their particular investigations and experiments. R is often for statistics or Python for repetitive tasks and for extracting data from web-based applications. 
-Read [Scientific Computing: Code Alert](https://www.nature.com/naturejobs/science/articles/10.1038/nj7638-563a) by Monya Baker.  "Andrew Durso can vouch for those upsides. The ecology graduate student at Utah State University in Logan started his research career using programs with graphical interfaces. Whenever he clicked buttons or checked boxes on a computer screen, he would try to write those steps down on paper in case he wanted to redo an analysis — a strategy that was both time-consuming and unreliable. Even though he is still new to coding, he says, a re-analysis of one of his earlier projects took less than 5% of the time previously required, and every step was recorded automatically." 
+- Researchers can't look through 10,000s of data points anymore in e.g. spreadsheets, to analyse that data researchers are beginning to write custom code (using different programming languages) that works with more data and fit with their particular investigations and experiments. R is often for statistics or Python for repetitive tasks and for extracting data from web-based applications. 
+
+---
+@title[Research Use]
+### Research Use
+
+<img src="images/Researcher_notebook.png" width="500">
+
+- Read [Scientific Computing: Code Alert](https://www.nature.com/naturejobs/science/articles/10.1038/nj7638-563a) by Monya Baker.  "Andrew Durso can vouch for those upsides. The ecology graduate student at Utah State University in Logan started his research career using programs with graphical interfaces. Whenever he clicked buttons or checked boxes on a computer screen, he would try to write those steps down on paper in case he wanted to redo an analysis — a strategy that was both time-consuming and unreliable. Even though he is still new to coding, he says, a re-analysis of one of his earlier projects took less than 5% of the time previously required, and every step was recorded automatically." 
 
 ---
 @title[Using Notebooks]
