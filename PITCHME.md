@@ -308,6 +308,9 @@ Note:
 - Not intended as an IDE (integrated development environments) 
 
 Note: 
+- Dr Steve Cassidy "The main advantage is to preserve context of computed results but in fact that turns out to be a bad idea since the notebook model encourages out-of-order execution – the longer your notebook is running the more likely it is that variable values don’t correspond to the current code.   I prefer to re-start notebooks and re-run to ensure that what I’m seeing corresponds to what has run." Email exchange with Ingrid Mason (AARNet) 11 December 2018. 
+- For more information [The Future of Notebooks: Lessons from JupyterCon](https://news.ycombinator.com/item?id=17839188) and check out the [WYSIWYG alternative model e.g. Observable](https://news.ycombinator.com/item?id=17839188).  
+
 
 ---
 @title[Why Not Use Jupyter?]
