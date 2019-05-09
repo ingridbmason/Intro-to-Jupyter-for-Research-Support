@@ -299,7 +299,11 @@ Note:
 @title[Andrew Durso]
 ### Andrew Durso
 
-<p style="font-size:0.6em; color:gray">Read [Scientific Computing: Code Alert](https://www.nature.com/naturejobs/science/articles/10.1038/nj7638-563a) by Monya Baker. "Andrew Durso can vouch for those upsides. The ecology graduate student at Utah State University in Logan started his research career using programs with graphical interfaces. Whenever he clicked buttons or checked boxes on a computer screen, he would try to write those steps down on paper in case he wanted to redo an analysis — a strategy that was both time-consuming and unreliable. Even though he is still new to coding, he says, a re-analysis of one of his earlier projects took less than 5% of the time previously required, and every step was recorded automatically."</p>
+<p style="font-size:0.6em; color:gray">"Andrew Durso can vouch for those upsides. The ecology graduate student at Utah State University in Logan started his research career using programs with graphical interfaces. Whenever he clicked buttons or checked boxes on a computer screen, he would try to write those steps down on paper in case he wanted to redo an analysis — a strategy that was both time-consuming and unreliable. Even though he is still new to coding, he says, a re-analysis of one of his earlier projects took less than 5% of the time previously required, and every step was recorded automatically."</p>
+
+Note:
+
+Read [Scientific Computing: Code Alert](https://www.nature.com/naturejobs/science/articles/10.1038/nj7638-563a) by Monya Baker. 
 
 ---
 @title[Using Notebooks]
