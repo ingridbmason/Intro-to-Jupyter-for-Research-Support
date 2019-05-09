@@ -170,13 +170,13 @@ Cells might contain code executed (through the kernel) or markdown formatted tex
 #### Code
 
 - Code: "Running code" means making the computer do what you are telling it to do. "Executing code" is the same thing.
-- Output: In Jupyter Notebooks "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on
+- Output: In Jupyter Notebooks the "output" is the result of the computational process, such as a visualisation, graph, model, equation and so on
 
 ---
 @title[Markdown]
 #### Markdown
 
-Markdown is formatted text you want to include such as headings, italics, quotes and other types of styling. It might be a description, a note, a question (as context).
+- Markdown: Markdown is formatted text you want to include such as headings, italics, quotes and other types of styling. It might be a description, a note, a question (as context).
 
 -see the overview from the [Markdown Guide](https://www.markdownguide.org/basic-syntax/) 
 
