@@ -241,6 +241,20 @@ Note:
 University of Texas at Austin, Tal Yarkoni uses the [notebook](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html) to run automated meta-analyses of brain imaging studies to uncover patterns of neural activity involved in language processing, emotion and other processes.
 
 ---
+@title[
+
+- Research questions don’t marry with functions in commercial tools  
+- Automating analyses to speed up data crunching 
+- Protect datasets from deletion or changes
+- Reworking analyses is quick 
+- Working with datasets too big for commercial tools
+
+Note:
+
+Researchers can't look through 10,000s of data points anymore in e.g. spreadsheets, to analyse that data researchers are beginning to write custom code (using different programming languages) that works with more data and fit with their particular investigations and experiments. R is often for statistics or Python for repetitive tasks and for extracting data from web-based applications. 
+Read [Scientific Computing: Code Alert](https://www.nature.com/naturejobs/science/articles/10.1038/nj7638-563a) by Monya Baker.  "Andrew Durso can vouch for those upsides. The ecology graduate student at Utah State University in Logan started his research career using programs with graphical interfaces. Whenever he clicked buttons or checked boxes on a computer screen, he would try to write those steps down on paper in case he wanted to redo an analysis — a strategy that was both time-consuming and unreliable. Even though he is still new to coding, he says, a re-analysis of one of his earlier projects took less than 5% of the time previously required, and every step was recorded automatically." 
+
+---
 @title[Using Notebooks]
 ### Using Notebooks
 
@@ -291,7 +305,7 @@ Note:
 
 - “Working state” can be altered and make it difficult to reproduce results 
 - Not great for production code development 
-
+- Not intended as an IDE (integrated development environments) 
 
 Note: 
 
@@ -304,10 +318,35 @@ Note:
 - Work with small datasets that are easy to load into applications 
 - Not able to or keen on installing new software on a machine?*
 - Yet to see a notebook that they would like to copy and learn from 
+- Cell executing and ordering, and hidden state (easy to mess up)  
+- Saving and checkpointing (confusing) 
 
 Note:
 
 * was a trick point, Jupyter operates in cloud services, but there are packages that may need to be loaded that are not available in different providers' services 
+Look through Joel Grus' slidedeck [I don't like notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit) given at JupyterCon 2018.   
+Checkpoint (the notebook and the hidden checkpoint file .ipynb_checkpoints) to recover work 
+
+---
+@title[Service Comparisons]
+#### Service Comparisons
+
+- languages supported and ability to install packages
+- interface and keyboard shortcuts (similarity to Jupyter)
+- missing or different features and version control
+
+Note:
+
+Check out this [comparison](https://docs.google.com/spreadsheets/d/12thaaXg1Idr3iWST8QyASNDs08sjdPd6m9mbCGtHFn0/edit#gid=1505836451) of Binder, Kaggle Kernels, Google Colaboratory, Microsoft Azure Notebooks, CoCalc, Datalore by Kevin Markham (Data School). 
+Worth reading Markham's post on ["How to choose the right service for you"](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#howtochoosetherightserviceforyou). 
+
+---
+@title[Desktop v Cloud]
+#### Desktop v Cloud
+
+- Desktop: able to load software, no internet required, datasets small to load in 
+- Cloud: explore and extract data from large datasets without having to download them
+
 
 ---
 @title[Hands On]
