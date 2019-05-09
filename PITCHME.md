@@ -132,6 +132,12 @@ Human-readable documents containing: analysis description and the results (figur
 - Can run on remote machine with internet
 
 ---
+@title[Notebook Operation]
+### Notebook Operation
+
+<img src="images/SWAN_notebookUI.png" width="500">
+
+---
 @title[Notebook Kernels]
 ### Notebook Kernels
 
