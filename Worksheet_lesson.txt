@@ -1,0 +1,99 @@
+*Let’s go for a dip with Python*
+
+Markdown: to display as a heading 			# this is a string 
+Code: to comment on what you’re doing 		# this is a string  
+
+Markdown: to display in italics 				_this is a string_
+Code: to print what is in the brackets 			print ("this is a string")
+
+Modify code to add quote marks 	  			print ("\"this is a string\"")
+
+—-
+
+Code: to create a sequence of integers	 		list(range(1, 20))		 
+
+Code: to sum up that sequence 				a = list(range(1, 20))
+										x = sum(a)
+											print(x)
+
+Code: to create an array 						arr = ["Jack", "Queen", "King"]
+		print(arr[0])
+		print(arr[1])
+		print(arr[2])
+
+—
+
+Code: Print an array						arr = ["Jack", "Queen", "King"]
+											print(arr[0])
+											print(arr[1])
+											print(arr[2])
+
+—-
+
+Code: print keys and values from a dictionary
+
+d = {'employee': 'Juanita Lopez','salary':81000, 'startdate': '2010-11-1'}
+e = {'employee': 'Peter Gynn','salary':83400, 'startdate': '2008-3-25'}
+f = {'employee': 'Jolie Talofa','salary':96800, 'startdate': '2007-3-14'}
+print (d)
+print (e)
+print (f)
+
+d.keys()
+d.values()
+d.items()
+
+for k,v in d.items():
+    print(k, v)
+
+for k,v in e.items():
+    print(k, v)
+
+—-
+
+Markdown: # -*- coding: iso-8859-1 -*-
+
+Code: construct a function
+
+en_de = {"red" : "rot", "blue" : "blau", "yellow" : "gelb"}
+print (en_de)
+print (en_de["red"])
+de_fr = {"rot" : "rouge", "blau" : "bleu", "gelb" : "jaune"}
+print ("The French word for red is: " + de_fr[en_de["red"]])
+
+—-
+
+*Let’s go for a dip with R*
+
+Markdown: to display as a heading 			# this is a string 
+Code: to comment on what you’re doing 		# this is a string  
+
+Markdown: to display in italics 				_this is a string_
+
+Code: to print what is in the quotes 			“this is a string“
+Code: to print out the argument of x  			x<- “this is a string”
+										print(x)
+
+Modify code to remove the quote marks		print(x, quote = FALSE)
+
+—
+
+Code: to create a sequence of integers	 		1:19		 
+Code: to sum up that sequence 				sum(1:19)
+Code: to create some vectors 				x = c(3, 5, 8, 9)
+										y = c(“Jack”,“Queen”,“King”)
+
+Code: to sum up x							sum(x)
+Code: to get 2nd member of x 				x[2] 
+Code: matrix	from x & y vectors				matrix(y,2,3,byrow=T)
+
+—
+
+Code: construct a data frame
+
+employee <- c("Juanita Lopez", "Peter Gynn", "Jolie Talofa")
+salary <- c(81000, 83400, 96800)
+startdate <- as.Date(c("2010-11-1", "2008-3-25", "2007-3-14"))
+employ.data <- data.frame(employee, salary, startdate)
+employ.data <- data.frame(employee, salary, startdate, stringsAsFactors = FALSE)
+employ.data
