@@ -323,9 +323,9 @@ Note:
 
 Note:
 
-* was a trick point, Jupyter operates in cloud services, but there are packages that may need to be loaded that are not available in different providers' services 
-Look through Joel Grus' slidedeck [I don't like notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit) given at JupyterCon 2018.   
-Checkpoint (the notebook and the hidden checkpoint file .ipynb_checkpoints) to recover work 
+- The asterisk was a trick point, Jupyter operates in cloud services, but there are packages that may need to be loaded that are not available in different providers' services.  
+- Look through Joel Grus' slidedeck [I don't like notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit) given at JupyterCon 2018.   
+- Checkpoint (the notebook and the hidden checkpoint file .ipynb_checkpoints) to recover work. 
 
 ---
 @title[Service Comparisons]
@@ -337,8 +337,8 @@ Checkpoint (the notebook and the hidden checkpoint file .ipynb_checkpoints) to r
 
 Note:
 
-Check out this [comparison](https://docs.google.com/spreadsheets/d/12thaaXg1Idr3iWST8QyASNDs08sjdPd6m9mbCGtHFn0/edit#gid=1505836451) of Binder, Kaggle Kernels, Google Colaboratory, Microsoft Azure Notebooks, CoCalc, Datalore by Kevin Markham (Data School). 
-Worth reading Markham's post on ["How to choose the right service for you"](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#howtochoosetherightserviceforyou). 
+- Check out this [comparison](https://docs.google.com/spreadsheets/d/12thaaXg1Idr3iWST8QyASNDs08sjdPd6m9mbCGtHFn0/edit#gid=1505836451) of Binder, Kaggle Kernels, Google Colaboratory, Microsoft Azure Notebooks, CoCalc, Datalore by Kevin Markham (Data School). 
+- Worth reading Markham's post on ["How to choose the right service for you"](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#howtochoosetherightserviceforyou). 
 
 ---
 @title[Desktop v Cloud]
