@@ -32,6 +32,7 @@ Note:
 
 - Objective: Understand what notebooks are capable of. 
 - Activity: How could you see a notebook being useful to researchers?
+- Check out a [Jupyter notebook gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks), [Programming Historian](https://programminghistorian.org/) or the [DH Lab at EPFL](https://github.com/dhlab-epfl?language=jupyter+notebook). 
 
 ---
 @title[Notebook Description]
